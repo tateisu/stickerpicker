@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "jugglerJp.json"
+  ],
+  "homeserver_url": "https://matrix.juggler.jp/"
+}
